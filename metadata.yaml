@@ -1,0 +1,26 @@
+_repo: Blessed-Event_66244
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Farrell, Henry
+    aliases:
+    - Myers, Charles Farrell
+    - Myers, Charles Henry
+    - Myers, Charles F.
+    birthdate: 1920
+    deathdate: 2006
+    gutenberg_agent_id: '53188'
+    url: http://www.gutenberg.org/2009/agents/53188
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Farrell
+description: ''
+gutenberg_issued: '2021-09-08'
+identifiers:
+  gutenberg: '66244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Blessed Event
+url: http://www.gutenberg.org/ebooks/66244
